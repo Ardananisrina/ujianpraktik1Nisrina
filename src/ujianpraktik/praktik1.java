@@ -33,6 +33,9 @@ public class praktik1 {
         
         else if(harga >= 500.000)
         System.out.println("diskon 50%");
+        
+        String namakasir;
+        System.out.println("Nama Kasir : Nisrina Izdihar");
     }
 }
            
